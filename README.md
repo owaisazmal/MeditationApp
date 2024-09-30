@@ -16,18 +16,4 @@ Before running the app, ensure that you have the following installed:
 - **Expo CLI**: Install globally using npm:
   ```bash
   npm install -g expo-cli
-## Install dependencies
 
-Use npm or yarn to install the project dependencies:
-
-```bash
-npm install
-
-## Running the App
-
-### Start the Expo Development Server:
-
-After installing the dependencies, start the Expo server with the following command:
-
-```bash
-npm start
